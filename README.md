@@ -1,2 +1,2 @@
-# ZP-OENAS
-The source code of the "Zero-Cost Proxy-based Neural Architecture Search with Opposite Archives and Elite Evaluation".
+# OELNAS
+The source code of the "Learnability-driven zero-cost neural architecture search via opposite archives and elite evaluation".
